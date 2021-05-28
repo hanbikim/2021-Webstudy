@@ -1,0 +1,22 @@
+p {
+    color: purple;
+    font-family: 'Georgia';
+  }
+.back1{
+    background-color: lightblue;
+}
+#profile{
+    background-color: lightcyan;
+    font-family: 'Georgia';
+    font-weight: bold;
+
+}
+#family{
+    background-color: lightgoldenrodyellow;
+    font-family: 'Georgia';
+
+}
+#schedule{
+    background-color: rgb(190, 241, 190);
+    font-family: Helvetica;
+}
