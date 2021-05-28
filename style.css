@@ -1,0 +1,90 @@
+p {
+    color: purple;
+    font-family: 'Georgia';
+    text-align: center;
+  }
+.back1{
+    font-family: Helvetica;
+    font-weight: bold;
+    text-align: center;
+}
+#profile{
+    background-color: lightcyan;
+    font-family: 'Georgia';
+    font-weight: bold;
+    text-align: center;
+}
+#family{
+    background-color: lightgoldenrodyellow;
+    font-family: 'Georgia';
+    text-align: center;
+}
+#schedule{
+    background-color: rgb(190, 241, 190);
+    font-family: Helvetica;
+    text-align: center;
+}
+.hw3{
+    background-color: lightblue;
+}
+.hw2{
+    background-color: lightblue;
+}
+.title{
+    font-family: Helvetica;
+    font-weight: bold;
+    text-align: center;
+}
+.info{
+    font-family: Helvetica;
+    font-weight: bold;
+    text-align: center;
+}
+.form{
+    font-family: Helvetica;
+    text-align: center;
+}
+.hw4-2{
+    background-color: lightblue;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.sidebar{
+    position:fixed;
+    left:0;
+    width: 200px;
+    height: 100%;
+    background:black;
+}
+.sidebar header{
+    font-size: 22px;
+    color: white;
+    text-align: center;
+    line-height: 70px;
+    background: rgb(29, 29, 66);
+    user-select: none;
+    font-family: 'Times New Roman';
+}
+.sidebar ul a{
+    display: block;
+    height: 100%;
+    width: 200px;
+    line-height: 60px;
+    font-size: 20px;
+    color: white;
+    padding-left: 15px;
+    box-sizing: border-box;
+    font-family: 'Georgia';
+}
+ul li:hover a{
+    padding-left: 10px;
+}
+table{
+    width: 60%;
+    height: 100px;
+    margin: auto;
+    text-align: center;
+}
